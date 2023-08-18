@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @samdare00
 - 👀 I’m interested in electronics, mechanical design, and software
 - 🌱 I’m currently learning PCB design
-- 📫 How to reach me - email is sammyadthesnake@gmail.com
+- 📫 How to reach me - email is contact@samdare.me
